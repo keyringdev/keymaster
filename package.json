@@ -1,0 +1,43 @@
+{
+  "_from": "github:danielweck/keymaster",
+  "_id": "keymaster@1.6.3",
+  "_inBundle": false,
+  "_integrity": "",
+  "_location": "/keymaster",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "git",
+    "raw": "github:danielweck/keymaster",
+    "rawSpec": "github:danielweck/keymaster",
+    "saveSpec": "github:danielweck/keymaster",
+    "fetchSpec": null,
+    "gitCommittish": null
+  },
+  "_requiredBy": [
+    "#DEV:/",
+    "#USER"
+  ],
+  "_resolved": "github:danielweck/keymaster#c154e408b0ff18f122e8e84e38ab320e20eb8102",
+  "_spec": "github:danielweck/keymaster",
+  "_where": "C:\\workspace\\git\\readium-js-viewer",
+  "author": {
+    "name": "Thomas Fuchs",
+    "email": "thomas@slash7.com",
+    "url": "http://mir.aculo.us"
+  },
+  "bugs": {
+    "url": "https://github.com/madrobby/keymaster/issues"
+  },
+  "bundleDependencies": false,
+  "deprecated": false,
+  "description": "library for defining and dispatching keyboard shortcuts",
+  "homepage": "https://github.com/madrobby/keymaster#readme",
+  "license": "MIT",
+  "main": "./keymaster.js",
+  "name": "keymaster",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/madrobby/keymaster.git"
+  },
+  "version": "1.6.3"
+}
